@@ -67,5 +67,5 @@ GitHub: [Data-ctrl-del](https://github.com/Data-ctrl-del)
 
 ## 🔗 Live Repository
 
-[github.com/Data-ctrl-del/autoscout24-powerbi-dashboard]   https://data-ctrl-king.github.io/autoscout24-powerbi-dashboard
+  https://data-ctrl-king.github.io/autoscout24-powerbi-dashboard
 
