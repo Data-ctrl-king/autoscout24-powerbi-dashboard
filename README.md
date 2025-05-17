@@ -60,7 +60,7 @@ This project is perfect for:
 ## 👤 Author
 
 **George Ohemeng**  
-GitHub: [Data-ctrl-del](https://github.com/Data-ctrl-del)  
+GitHub: Data-ctrl-king
 📧 Email: georgeohe6@gmail.com  
 
 ---
